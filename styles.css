@@ -95,6 +95,7 @@ strong{font-weight:600}
 .nav{display:flex;align-items:center;justify-content:space-between;height:68px}
 .brand{display:flex;align-items:baseline;gap:.55rem;text-decoration:none;font-family:var(--display);font-weight:800;letter-spacing:.16em;font-size:1.02rem}
 .brand .mark{font-size:.62rem;color:var(--copper);letter-spacing:.18em;font-weight:600;transform:translateY(-1px)}
+.brand-icon{align-self:center;border-radius:50%}
 .nav-links{display:flex;align-items:center;gap:clamp(14px,2vw,30px);list-style:none;margin:0;padding:0}
 .nav-links a{font-family:var(--mono);font-size:.78rem;letter-spacing:.04em;text-decoration:none;color:var(--ink);padding:.4em 0;position:relative;transition:color .2s}
 .nav-links a:not(.btn)::after{content:"";position:absolute;left:0;bottom:-2px;width:0;height:1px;background:var(--copper);transition:width .25s}
