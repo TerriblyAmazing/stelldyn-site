@@ -6,4 +6,7 @@
   <url><loc>https://stelldyn.com/advisory</loc><priority>0.7</priority></url>
   <url><loc>https://stelldyn.com/agency</loc><priority>0.7</priority></url>
   <url><loc>https://stelldyn.com/contact</loc><priority>0.6</priority></url>
+  <url><loc>https://stelldyn.com/insights</loc><priority>0.7</priority></url>
+  <url><loc>https://stelldyn.com/insights/advisory-first-vs-brokerage</loc><lastmod>2026-07-05</lastmod><priority>0.6</priority></url>
+  <url><loc>https://stelldyn.com/insights/byproducts-are-revenue-not-cost</loc><lastmod>2026-06-29</lastmod><priority>0.6</priority></url>
 </urlset>

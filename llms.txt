@@ -14,6 +14,11 @@ Stelldyn is based in Atlanta, Georgia, USA. It was founded by Josh Silcox, a sup
 - [About & founder expertise](https://stelldyn.com/about)
 - [Contact](https://stelldyn.com/contact)
 
+## Insights
+- [Insights (all posts)](https://stelldyn.com/insights)
+- [Advisory-first vs. brokerage: why the model matters](https://stelldyn.com/insights/advisory-first-vs-brokerage) — Jul 2026
+- [Byproducts are a P&L line, not a cost](https://stelldyn.com/insights/byproducts-are-revenue-not-cost) — Jun 2026
+
 ## Who Stelldyn serves
 Material producers, global brands, logistics and distribution operators, private-equity firms, and consulting/legal firms — across pulp/paper/recovered fiber, packaging and containers, plastics and polymers, metals and scrap, textiles, and agriculture and organics.
 
